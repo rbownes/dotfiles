@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@yaegassy/coc-marksman": ">=0.4.0"
+  }
+}
