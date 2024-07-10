@@ -1,8 +1,6 @@
 call plug#begin()
 
 " List your plugins here
-" Plug 'tpope/vim-sensible'
-
 " install telescope and dependencies 
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.8' }
