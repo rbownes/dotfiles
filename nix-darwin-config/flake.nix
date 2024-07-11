@@ -16,7 +16,8 @@
         [ pkgs.vim
 	  pkgs.neovim
 	  pkgs.rustup
-	  pkgs.vimPlugins.vim-plug
+	  # pkgs.vimPlugins.vim-plug
+	  pkgs.vimPlugins.packer-nvim
 	  pkgs.ripgrep
 	  pkgs.fd
 	  pkgs.nodejs_22
