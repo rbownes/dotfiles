@@ -20,6 +20,7 @@
 	  pkgs.ripgrep
 	  pkgs.fd
 	  pkgs.nodejs_22
+	  pkgs.marksman
         ];
 
       system.defaults = {
