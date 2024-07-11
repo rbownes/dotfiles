@@ -10,6 +10,8 @@ Plug 'nvim-tree/nvim-web-devicons'
 " Use release branch (recommended)
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'aspeddro/pandoc.nvim'
+Plug 'shortcuts/no-neck-pain.nvim', { 'tag': '*' }
 call plug#end()
 
-
+set spelllang=en_us
+set spell
