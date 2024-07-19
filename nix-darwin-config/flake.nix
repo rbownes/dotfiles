@@ -23,6 +23,7 @@
 	  pkgs.marksman
 	  pkgs.bat
 	  pkgs.tmux
+	  pkgs.oh-my-zsh
 	  pkgs.cmatrix
         ];
 
