@@ -25,6 +25,7 @@
 	  pkgs.tmux
 	  pkgs.oh-my-zsh
 	  pkgs.cmatrix
+	  pkgs.python3
         ];
 
       system.defaults = {
